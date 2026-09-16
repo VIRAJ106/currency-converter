@@ -1,2 +1,2 @@
-Basic Currency Convertor web application for Learning,
+Basic Currency Convertor web application for Learning react.
 
